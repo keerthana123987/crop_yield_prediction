@@ -4,9 +4,9 @@ This project predicts crop yield using agricultural and climate data using machi
 
 ## Project Structure
 
-- dataset/ : Contains the dataset
-- notebook/ : Jupyter notebook with code
-- report/ : Project documentation
+- dataset : Contains the dataset in csv format
+- notebook : Google colab notebook with code
+- Project report : Project documentation
 
 ## Models Used
 - Linear Regression
